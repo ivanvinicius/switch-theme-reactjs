@@ -1,4 +1,4 @@
-# Swith Themes 
+# Switch Themes 
 
 Switch light and dark theme using Reactjs and Typescript
 
