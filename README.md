@@ -9,4 +9,10 @@ Switch light and dark theme using Reactjs and Typescript
 3. Inside project folder run the command `$ yarn` to download dependencies
 4. Run the project with `$ yarn start`
 
-.: keep coding!
+## Project Overview
+
+![Screenshot](screenshot.png)
+
+Youtube video tutorial: https://youtu.be/ngVU74daJ8Y 
+
+### keep coding!
